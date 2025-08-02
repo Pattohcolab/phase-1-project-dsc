@@ -1,4 +1,8 @@
+<img width="911" height="183" alt="image" src="https://github.com/user-attachments/assets/8fca33a2-551a-4b12-a32e-1f323d07e713" />
+
 <img width="911" height="222" alt="image" src="https://github.com/user-attachments/assets/405a98c0-8d0c-49a4-a330-5d53f52077dc" />
+
+
 
 # PROJECT OVERVIEW
 Microsoft is a major company worth billions. Hence they wish to expand and enter the movie/film industry. 
